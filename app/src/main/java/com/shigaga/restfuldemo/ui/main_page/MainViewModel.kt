@@ -57,6 +57,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     var toastWithStrInputLiveData: MutableLiveData<String> = MutableLiveData()
     var toastForGreetingLiveData: MutableLiveData<Boolean> = MutableLiveData()
 
+
     override fun onCleared() {
         alreadyShown = false
         super.onCleared()
