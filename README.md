@@ -40,12 +40,10 @@
 <br>
 <br>
 
+## 執行結果如下:
 
-<br>
-<br>
-
-<p float="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="app/src/main/res/mipmap-xxxhdpi/screenshot.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;
+<p float="left">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="app/src/main/res/mipmap-xxxhdpi/screenshot.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="app/src/main/res/mipmap-xxxhdpi/screenshot_1.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="app/src/main/res/mipmap-xxxhdpi/screenshot3.png" width="30%" height="30%">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
