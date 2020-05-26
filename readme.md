@@ -11,6 +11,8 @@
 
 關閉App後，再次啟動（第二次開啟）時將透過 ~~Toast~~ SnackBar(Material Design) 顯示「歡迎回來」歡迎詞。
 
+Demo使用SnackBar元件做相關資訊的顯示，但仍保留Toast實現的程式碼，僅註解掉。
+
 <br>
 <br>
 
