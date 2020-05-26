@@ -150,9 +150,6 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     /** 若有需要就顯示 歡迎回來 對話氣泡 */
     fun showGreetingToastIfNeed() {
 
-        Log.d(TAG, "showGreetingToastIfNeed, alreadyShown=$alreadyShown," +
-                    " getIsFirstRunValue=${getIsFirstRunValue()}")
-
         viewModelScope.launch {
 
             toastForGreetingLiveData.postValue(!alreadyShown && !getIsFirstRunValue())
