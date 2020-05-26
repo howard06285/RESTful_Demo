@@ -159,8 +159,8 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
 
             if (!alreadyShown || getIsFirstRunValue())
                 alreadyShown = true
-            else
-                setIsFirstRunValueToFalse()
+
+            setIsFirstRunValueToFalse()
         }
     }
 
