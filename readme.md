@@ -3,7 +3,7 @@
 <br>
 <br>
 
-此Demo將使用[中央氣象局開放資料平台API](https://opendata.cwb.gov.tw/index)內的 **36小時天氣預報資料** (F_C0032_001)，搭配條件：台北市、Mint，以獲取台北市36小時氣象預報等天氣資訊，接著透過解析API回傳的氣象資訊Json資料，以得到最低溫度（MinT）
+此Demo將使用[中央氣象局開放資料平台API](https://opendata.cwb.gov.tw/index)內的 **36小時天氣預報資料** (F_C0032_001)，搭配條件：台北市、Mint，以獲取台北市36小時氣象預報等天氣資訊，接著透過解析API回傳的氣象資訊Json資料，得到最低溫度（MinT）
 
 並在每筆氣象資料(type_A)之間插入一張任意圖片(type_B)。點擊 type_A 可跳至下一頁，該頁面將會顯示此筆資料的數據；點擊 type_B 則不做任何動作。
 
@@ -28,7 +28,7 @@ Demo使用SnackBar元件做相關資訊的顯示，但仍保留Toast實現的程
 | [LiveData*](https://developer.android.com/topic/libraries/architecture/livedata)| 一個 [具有生命週期感知的元件](https://developer.android.com/topic/libraries/architecture/lifecycle)並可觀察的資料類型 |
 | [SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences) | 一個輕量化的本地數據儲存方式 |
 
-*星號表示這個功能或函式庫是屬於 [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - [Android Jetpack](https://developer.android.com/jetpack) 的一份子。
+*星號表示這個功能或函式庫是屬於 [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - [Android Jetpack](https://developer.android.com/jetpack) 的一部分。
 
 <br>
 <br>
