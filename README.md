@@ -32,12 +32,6 @@
 
 <br>
 <br>
-
-這個專案使用 [AndroidX相容包函式庫](https://developer.android.com/jetpack/androidx)
-
-<br>
-<br>
-<br>
 <br>
 
 ## 執行結果如下:
@@ -51,4 +45,10 @@
 <br>
 <br>
 
+這個專案使用 [AndroidX相容包函式庫](https://developer.android.com/jetpack/androidx)
+
+<br>
+<br>
+<br>
+<br>
 
