@@ -39,5 +39,15 @@
 <br>
 <br>
 <br>
-<img src="app/src/main/res/mipmap-xxxhdpi/screenshot.png" width="30%" height="30%" align="center" valign="center"><img src="app/src/main/res/mipmap-xxxhdpi/screenshot_1.png" width="30%" height="30%" align="center" valign="center"><img src="app/src/main/res/mipmap-xxxhdpi/screenshot3.png" width="30%" height="30%" align="center" valign="center">
+<figure class="third">
+  <img src="app/src/main/res/mipmap-xxxhdpi/screenshot.png">
+  <img src="app/src/main/res/mipmap-xxxhdpi/screenshot_1.png">
+  <img src="app/src/main/res/mipmap-xxxhdpi/screenshot3.png">
+</figure>
+
+<br>
+<br>
+  <img src="app/src/main/res/mipmap-xxxhdpi/screenshot.png" width="30%" height="30%" valign="center">
+  <img src="app/src/main/res/mipmap-xxxhdpi/screenshot_1.png" width="30%" height="30%" valign="center">
+  <img src="app/src/main/res/mipmap-xxxhdpi/screenshot3.png" width="30%" height="30%" valign="center">
 
