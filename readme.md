@@ -3,7 +3,7 @@
 <br>
 <br>
 
-此Demo將使用[中央氣象局開放資料平台API](https://opendata.cwb.gov.tw/index)內的 **36小時天氣預報資料** (F_C0032_001)，搭配條件：台北市、Mint，以獲取台北市36小時氣象預報等天氣資訊，接著透過解析API回傳的氣象資訊Json資料，以得到最低溫度（MinT）
+此Demo將使用[中央氣象局開放資料平台API](https://opendata.cwb.gov.tw/index)內的 **36小時天氣預報資料** (F_C0032_001)，搭配條件：台北市、Mint，以獲取台北市36小時氣象預報等天氣資訊，接著透過https://github.com/howard06285/RESTful_Demo/blob/master/ReadMe.md解析API回傳的氣象資訊Json資料，以得到最低溫度（MinT）
 
 並在每筆氣象資料(type_A)之間插入一張任意圖片(type_B)。點擊 type_A 可跳至下一頁，該頁面將會顯示此筆資料的數據；點擊 type_B 則不做任何動作。
 
