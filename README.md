@@ -9,9 +9,9 @@
 
 所有頁面皆使用 ConstraintLayout 實現以達成各種螢幕尺寸自適應、不跑版的目的。
 
-關閉App後，再次啟動（第二次開啟）時將透過 ~~Toast~~ SnackBar(Material Design推薦元件) 顯示「歡迎回來」歡迎詞。
+關閉App後，再次啟動（第二次開啟）時將透過~~Toast~~ SnackBar 顯示「歡迎回來」歡迎詞。
 
-**Demo使用SnackBar元件做相關資訊的顯示，但仍保留Toast實現的程式碼，僅註解掉。**
+**Material Design推薦使用 SnackBar元件，因此Demo改成使用SnackBar元件做相關資訊的顯示，但仍保留Toast的程式碼，僅註解掉。**
 
 <br>
 <br>
