@@ -9,9 +9,9 @@
 
 所有頁面皆使用 ConstraintLayout 實現以達成各種螢幕尺寸自適應、不跑版的目的。
 
-關閉App後，再次啟動（第二次開啟）時將透過 ~~Toast~~ SnackBar(Material Design) 顯示「歡迎回來」歡迎詞。
+關閉App後，再次啟動（第二次開啟）時將透過 ~~Toast~~ SnackBar(Material Design推薦元件) 顯示「歡迎回來」歡迎詞。
 
-Demo使用SnackBar元件做相關資訊的顯示，但仍保留Toast實現的程式碼，僅註解掉。
+**Demo使用SnackBar元件做相關資訊的顯示，但仍保留Toast實現的程式碼，僅註解掉。**
 
 <br>
 <br>
@@ -37,3 +37,7 @@ Demo使用SnackBar元件做相關資訊的顯示，但仍保留Toast實現的程
 
 <br>
 <br>
+<br>
+<br>
+<img src="app/src/main/res/mipmap-xxxhdpi/screenshot.png" width="30%" height="30%" align="center" valign="center"><img src="app/src/main/res/mipmap-xxxhdpi/screenshot_1.png" width="30%" height="30%" align="center" valign="center"><img src="app/src/main/res/mipmap-xxxhdpi/screenshot3.png" width="30%" height="30%" align="center" valign="center">
+
