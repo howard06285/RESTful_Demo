@@ -23,7 +23,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
 
     companion object {
 
-        private val TAG: String = MainViewModel::class.java.simpleName
+        /*private val TAG: String = MainViewModel::class.java.simpleName*/
 
         private const val TargetUrl =
             "https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-C0032-001?" +
